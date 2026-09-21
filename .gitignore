@@ -1,0 +1,18 @@
+# Environment
+.env
+venv/
+*.pyc
+__pycache__/
+
+# Reports (optional, but don't commit sensitive data)
+reports/
+*.json
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
